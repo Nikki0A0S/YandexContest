@@ -19,12 +19,12 @@
 					<td> 64Mb </td>
         </tr>
 				<tr>
-					<td> Ввод	стандартный ввод или </td>
-					<td> input.txt </td>
+					<td> Ввод </td>
+					<td> стандартный ввод или input.txt </td>
         </tr>
 				<tr>
-					<td> Вывод	стандартный вывод или </td>
-					<td> output.txt </td>
+					<td> Вывод </td>
+					<td> стандартный вывод или output.txt </td>
         </tr>
     	</tbody>
 		</table>
